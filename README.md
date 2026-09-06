@@ -17,6 +17,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Docker host health checklist](docker-host-health-checklist.md) | Health-checking a host running Docker containers. |
 | [Linux backup & recovery checklist](linux-backup-recovery-checklist.md) | Backups that actually restore — including the tested-restore step most people skip. |
 | [AI automation readiness checklist](ai-automation-readiness-checklist.md) | Deciding whether a business process is worth automating with AI — before spending money. |
+| [Linux server incident response](linux-server-incident-response.md) | The first 30 minutes when a Linux server is down or unresponsive — ordered, evidence-first. |
 
 ## About the author
 
@@ -27,7 +28,7 @@ start from £12. Linux is a specialist strength, not a platform restriction.
 - Website: [linuxstewards.com](https://www.linuxstewards.com/)
 - Services: [linuxstewards.com/services](https://www.linuxstewards.com/services)
 - Worldwide / remote: [linuxstewards.com/worldwide](https://www.linuxstewards.com/worldwide)
-- Email: [info@linuxstewards.com](mailto:info@linuxstewards.com)
+- Contact: [linuxstewards.com/contact](https://www.linuxstewards.com/contact)
 
 ## Licence
 
