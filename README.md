@@ -11,6 +11,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 
 | Guide | What it covers |
 |---|---|
+| [Before remote IT support](before-remote-it-support.md) | What to prepare for Windows, Mac, Linux or website help, so the first conversation is focused and useful. |
 | [Linux server health check](linux-server-health-check.md) | A repeatable command-based health check for a Linux server (disk, memory, CPU, services, logs, security). |
 | [Ubuntu server hardening checklist](ubuntu-server-hardening-checklist.md) | Essential first-step hardening for a new or existing Ubuntu server. |
 | [Linux migration readiness checklist](linux-migration-readiness-checklist.md) | Planning a safe migration to Linux (or between Linux hosts). |
@@ -33,3 +34,9 @@ start from £12. Linux is a specialist strength, not a platform restriction.
 ## Licence
 
 MIT — use freely, adapt, and attribute where practical.
+
+## VOY-OS project
+
+We are also developing VOY-OS, an agent-assisted Linux experience with people in control.
+[Join the waiting list for project updates and early-access invitations](https://voyos-mu.vercel.app/?utm_source=github&utm_medium=organic_content&utm_campaign=voyos_waitlist_202609&utm_content=resources_readme#join).
+The operating system is in development and is not available to download yet.
