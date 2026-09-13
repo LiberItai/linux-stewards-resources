@@ -38,5 +38,5 @@ MIT — use freely, adapt, and attribute where practical.
 ## VOY-OS project
 
 We are also developing VOY-OS, an agent-assisted Linux experience with people in control.
-[Join the waiting list for project updates and early-access invitations](https://voyos-mu.vercel.app/?utm_source=github&utm_medium=organic_content&utm_campaign=voyos_waitlist_202609&utm_content=resources_readme#join).
+[Join the waiting list for project updates and early-access invitations](https://voyos.org/?utm_source=github&utm_medium=organic_content&utm_campaign=voyos_waitlist_202609&utm_content=resources_readme#join).
 The operating system is in development and is not available to download yet.
