@@ -19,6 +19,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Linux backup & recovery checklist](linux-backup-recovery-checklist.md) | Backups that actually restore — including the tested-restore step most people skip. |
 | [AI automation readiness checklist](ai-automation-readiness-checklist.md) | Deciding whether a business process is worth automating with AI — before spending money. |
 | [Linux server incident response](linux-server-incident-response.md) | The first 30 minutes when a Linux server is down or unresponsive — ordered, evidence-first. |
+| [Working with Linux Stewards internationally](international-customer-checklist.md) | What to agree and expect before remote work starts — scope, GBP pricing, currency, delivery, time zone, third-party costs, language. |
 
 ## About the author
 
