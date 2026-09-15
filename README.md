@@ -21,6 +21,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Linux server incident response](linux-server-incident-response.md) | The first 30 minutes when a Linux server is down or unresponsive — ordered, evidence-first. |
 | [Working with Linux Stewards internationally](international-customer-checklist.md) | What to agree and expect before remote work starts — scope, GBP pricing, currency, delivery, time zone, third-party costs, language. |
 | [Everyday IT essentials for small businesses](everyday-it-essentials-checklist.md) | Plain-English DIY checks for Windows, Mac and mobile devices — backups, updates, passwords, 2FA, phishing, device basics and Wi-Fi. |
+| [Windows & Mac troubleshooting](windows-mac-troubleshooting-checklist.md) | Step-by-step DIY checks when a Windows PC or Mac is slow, freezing or will not start — before you spend on a repair. |
 
 ## About the author
 
