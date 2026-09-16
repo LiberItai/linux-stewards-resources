@@ -24,6 +24,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Windows & Mac troubleshooting](windows-mac-troubleshooting-checklist.md) | Step-by-step DIY checks when a Windows PC or Mac is slow, freezing or will not start — before you spend on a repair. |
 | [New computer setup (Windows & Mac)](new-computer-setup-checklist.md) | Plain-English steps for setting up a new Windows PC or Mac safely — updates, encryption, backups, 2FA and moving your data over. |
 | [Spreadsheet formula & data troubleshooting](spreadsheet-formula-troubleshooting-checklist.md) | Plain-English fixes for common Excel and Google Sheets errors (#DIV/0!, #VALUE!, #REF!, lookups) — before you spend on a repair. |
+| [Smartphone & tablet troubleshooting](smartphone-tablet-troubleshooting-checklist.md) | Plain-English fixes for a slow iPhone, iPad or Android device — storage, battery, crashing apps, Wi-Fi and mobile data. |
 
 ## About the author
 
