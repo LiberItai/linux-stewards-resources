@@ -23,6 +23,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Everyday IT essentials for small businesses](everyday-it-essentials-checklist.md) | Plain-English DIY checks for Windows, Mac and mobile devices — backups, updates, passwords, 2FA, phishing, device basics and Wi-Fi. |
 | [Windows & Mac troubleshooting](windows-mac-troubleshooting-checklist.md) | Step-by-step DIY checks when a Windows PC or Mac is slow, freezing or will not start — before you spend on a repair. |
 | [New computer setup (Windows & Mac)](new-computer-setup-checklist.md) | Plain-English steps for setting up a new Windows PC or Mac safely — updates, encryption, backups, 2FA and moving your data over. |
+| [Spreadsheet formula & data troubleshooting](spreadsheet-formula-troubleshooting-checklist.md) | Plain-English fixes for common Excel and Google Sheets errors (#DIV/0!, #VALUE!, #REF!, lookups) — before you spend on a repair. |
 
 ## About the author
 
