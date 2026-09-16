@@ -22,6 +22,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Working with Linux Stewards internationally](international-customer-checklist.md) | What to agree and expect before remote work starts — scope, GBP pricing, currency, delivery, time zone, third-party costs, language. |
 | [Everyday IT essentials for small businesses](everyday-it-essentials-checklist.md) | Plain-English DIY checks for Windows, Mac and mobile devices — backups, updates, passwords, 2FA, phishing, device basics and Wi-Fi. |
 | [Windows & Mac troubleshooting](windows-mac-troubleshooting-checklist.md) | Step-by-step DIY checks when a Windows PC or Mac is slow, freezing or will not start — before you spend on a repair. |
+| [New computer setup (Windows & Mac)](new-computer-setup-checklist.md) | Plain-English steps for setting up a new Windows PC or Mac safely — updates, encryption, backups, 2FA and moving your data over. |
 
 ## About the author
 
