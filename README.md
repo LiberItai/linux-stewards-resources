@@ -26,6 +26,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Spreadsheet formula & data troubleshooting](spreadsheet-formula-troubleshooting-checklist.md) | Plain-English fixes for common Excel and Google Sheets errors (#DIV/0!, #VALUE!, #REF!, lookups) — before you spend on a repair. |
 | [Smartphone & tablet troubleshooting](smartphone-tablet-troubleshooting-checklist.md) | Plain-English fixes for a slow iPhone, iPad or Android device — storage, battery, crashing apps, Wi-Fi and mobile data. |
 | [Small-business data protection & continuity](business-data-protection-checklist.md) | Plain-English checklist for protecting business data and keeping working when something breaks — 3-2-1 backups, ransomware, access control and a one-page continuity plan. |
+| [Small-business email setup & troubleshooting](email-setup-troubleshooting-checklist.md) | Plain-English checklist for setting up and fixing business email on everyday Windows, Mac and mobile devices — deliverability, account protection and the common send/receive problems in order. |
 
 ## About the author
 
