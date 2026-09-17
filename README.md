@@ -27,6 +27,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Smartphone & tablet troubleshooting](smartphone-tablet-troubleshooting-checklist.md) | Plain-English fixes for a slow iPhone, iPad or Android device — storage, battery, crashing apps, Wi-Fi and mobile data. |
 | [Small-business data protection & continuity](business-data-protection-checklist.md) | Plain-English checklist for protecting business data and keeping working when something breaks — 3-2-1 backups, ransomware, access control and a one-page continuity plan. |
 | [Small-business email setup & troubleshooting](email-setup-troubleshooting-checklist.md) | Plain-English checklist for setting up and fixing business email on everyday Windows, Mac and mobile devices — deliverability, account protection and the common send/receive problems in order. |
+| [Home & office Wi-Fi and network troubleshooting](wifi-network-troubleshooting-checklist.md) | Plain-English checks for slow, dropping or dead home/office Wi-Fi and internet — restart order, wired-vs-wireless, interference, and when to call for help. |
 
 ## About the author
 
