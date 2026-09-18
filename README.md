@@ -28,6 +28,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Small-business data protection & continuity](business-data-protection-checklist.md) | Plain-English checklist for protecting business data and keeping working when something breaks — 3-2-1 backups, ransomware, access control and a one-page continuity plan. |
 | [Small-business email setup & troubleshooting](email-setup-troubleshooting-checklist.md) | Plain-English checklist for setting up and fixing business email on everyday Windows, Mac and mobile devices — deliverability, account protection and the common send/receive problems in order. |
 | [Home & office Wi-Fi and network troubleshooting](wifi-network-troubleshooting-checklist.md) | Plain-English checks for slow, dropping or dead home/office Wi-Fi and internet — restart order, wired-vs-wireless, interference, and when to call for help. |
+| [Printer setup & troubleshooting (Windows & Mac)](printer-setup-troubleshooting-checklist.md) | Plain-English steps for setting up a new printer or fixing one that will not print, shows "offline", or prints badly — queue, drivers, network and print-quality checks. |
 
 ## About the author
 
