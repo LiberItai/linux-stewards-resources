@@ -30,6 +30,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Home & office Wi-Fi and network troubleshooting](wifi-network-troubleshooting-checklist.md) | Plain-English checks for slow, dropping or dead home/office Wi-Fi and internet — restart order, wired-vs-wireless, interference, and when to call for help. |
 | [Printer setup & troubleshooting (Windows & Mac)](printer-setup-troubleshooting-checklist.md) | Plain-English steps for setting up a new printer or fixing one that will not print, shows "offline", or prints badly — queue, drivers, network and print-quality checks. |
 | [Webcam & microphone setup for video calls](webcam-microphone-video-call-setup.md) | Plain-English steps for getting your camera and microphone working on Zoom, Teams or Meet — device selection, privacy settings, and audio/video quality. |
+| [Remote IT support preparation checklist](remote-it-support-preparation-checklist.md) | A customer-first checklist to prepare a Windows, Mac or Linux problem for remote help — symptoms, device, error, impact, backups, access, authorisation, success criteria and safe handling of sensitive information. |
 
 ## About the author
 
