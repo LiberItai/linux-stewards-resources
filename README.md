@@ -17,7 +17,7 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Linux migration readiness checklist](linux-migration-readiness-checklist.md) | Planning a safe migration to Linux (or between Linux hosts). |
 | [Docker host health checklist](docker-host-health-checklist.md) | Health-checking a host running Docker containers. |
 | [Linux backup & recovery checklist](linux-backup-recovery-checklist.md) | Backups that actually restore — including the tested-restore step most people skip. |
-| [AI automation readiness checklist](ai-automation-readiness-checklist.md) | Deciding whether a business process is worth automating with AI — before spending money. |
+| [AI automation readiness checklist](ai-automation-readiness-checklist.md) | Deciding whether a business process is worth automating with AI — before spending money. |\n| [AI agent deployment checklist](ai-agent-deployment-checklist.md) | A practical checklist for permissions, approval boundaries, failure handling, evidence, secrets and measurable business value when deploying AI agents. |
 | [Linux server incident response](linux-server-incident-response.md) | The first 30 minutes when a Linux server is down or unresponsive — ordered, evidence-first. |
 | [Working with Linux Stewards internationally](international-customer-checklist.md) | What to agree and expect before remote work starts — scope, GBP pricing, currency, delivery, time zone, third-party costs, language. |
 | [Everyday IT essentials for small businesses](everyday-it-essentials-checklist.md) | Plain-English DIY checks for Windows, Mac and mobile devices — backups, updates, passwords, 2FA, phishing, device basics and Wi-Fi. |
