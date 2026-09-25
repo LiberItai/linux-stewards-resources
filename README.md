@@ -31,6 +31,9 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Printer setup & troubleshooting (Windows & Mac)](printer-setup-troubleshooting-checklist.md) | Plain-English steps for setting up a new printer or fixing one that will not print, shows "offline", or prints badly — queue, drivers, network and print-quality checks. |
 | [Webcam & microphone setup for video calls](webcam-microphone-video-call-setup.md) | Plain-English steps for getting your camera and microphone working on Zoom, Teams or Meet — device selection, privacy settings, and audio/video quality. |
 | [Remote IT support preparation checklist](remote-it-support-preparation-checklist.md) | A customer-first checklist to prepare a Windows, Mac or Linux problem for remote help — symptoms, device, error, impact, backups, access, authorisation, success criteria and safe handling of sensitive information. |
+| [Small-business AI automation: 12 practical wins](small-business-ai-automation-ideas.md) | A plain-English guide to the AI and automation work that actually saves a small business time — email triage, quote/invoice generation, form capture, FAQ assistants and more, with likely effort for each. |
+| [Website contact form not sending enquiries?](website-contact-form-repair-guide.md) | A step-by-step fix guide for contact forms that have stopped delivering — form, sending path, email delivery, DNS and hosting, in plain English. |
+| [Business email: SPF, DKIM and DMARC in plain English](business-email-spf-dkim-dmarc-guide.md) | Why domain email lands in spam or fails to send, the three records that fix it, and how to check your own headers. |
 
 ## About the author
 
