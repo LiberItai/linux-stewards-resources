@@ -17,7 +17,8 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Linux migration readiness checklist](linux-migration-readiness-checklist.md) | Planning a safe migration to Linux (or between Linux hosts). |
 | [Docker host health checklist](docker-host-health-checklist.md) | Health-checking a host running Docker containers. |
 | [Linux backup & recovery checklist](linux-backup-recovery-checklist.md) | Backups that actually restore — including the tested-restore step most people skip. |
-| [AI automation readiness checklist](ai-automation-readiness-checklist.md) | Deciding whether a business process is worth automating with AI — before spending money. |\n| [AI agent deployment checklist](ai-agent-deployment-checklist.md) | A practical checklist for permissions, approval boundaries, failure handling, evidence, secrets and measurable business value when deploying AI agents. |
+| [AI automation readiness checklist](ai-automation-readiness-checklist.md) | Deciding whether a business process is worth automating with AI — before spending money. |
+| [AI agent deployment checklist](ai-agent-deployment-checklist.md) | A practical checklist for permissions, approval boundaries, failure handling, evidence, secrets and measurable business value when deploying AI agents. |
 | [Linux server incident response](linux-server-incident-response.md) | The first 30 minutes when a Linux server is down or unresponsive — ordered, evidence-first. |
 | [Working with Linux Stewards internationally](international-customer-checklist.md) | What to agree and expect before remote work starts — scope, GBP pricing, currency, delivery, time zone, third-party costs, language. |
 | [Everyday IT essentials for small businesses](everyday-it-essentials-checklist.md) | Plain-English DIY checks for Windows, Mac and mobile devices — backups, updates, passwords, 2FA, phishing, device basics and Wi-Fi. |
@@ -37,6 +38,10 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Business email: SPF, DKIM and DMARC in plain English](business-email-spf-dkim-dmarc-guide.md) | Why domain email lands in spam or fails to send, the three records that fix it, and how to check your own headers. |
 | [Website down or showing an error? Emergency checklist](website-down-emergency-checklist.md) | A calm, ordered checklist for when your site is down or showing an error — identify the error class, check what changed, and the cheap checks first. |
 | [DNS troubleshooting in plain English](dns-troubleshooting-guide.md) | Why your site or email "does not exist" when the server is fine — A, CNAME, MX and NS records, and the most common problems in order. |
+| [Linux workstation troubleshooting](linux-workstation-troubleshooting.md) | Command-first fixes for a Linux desktop or laptop used for daily work — frozen screen, no sound, missing Wi-Fi, broken package manager, boot failure. |
+| [Choosing and using an AI assistant for your small business](choosing-ai-assistant-guide.md) | Plain-English guide to picking an everyday AI assistant, keeping customer data private, and writing prompts that work. |
+| [Mac in a small business: accounts, backups and troubleshooting](mac-business-troubleshooting.md) | Running Macs for a team — separate accounts, Time Machine, FileVault, Gatekeeper, file sharing and common business-Mac fixes. |
+| [Secure remote access: how it works and how to stay safe](secure-remote-access-setup.md) | How remote access works, how to spot the scams, and how to set up safe one-time sessions for support. |
 
 ## About the author
 
