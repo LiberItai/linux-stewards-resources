@@ -42,6 +42,10 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Choosing and using an AI assistant for your small business](choosing-ai-assistant-guide.md) | Plain-English guide to picking an everyday AI assistant, keeping customer data private, and writing prompts that work. |
 | [Mac in a small business: accounts, backups and troubleshooting](mac-business-troubleshooting.md) | Running Macs for a team — separate accounts, Time Machine, FileVault, Gatekeeper, file sharing and common business-Mac fixes. |
 | [Secure remote access: how it works and how to stay safe](secure-remote-access-setup.md) | How remote access works, how to spot the scams, and how to set up safe one-time sessions for support. |
+| [WordPress website: maintenance, updates and emergency recovery](wordpress-website-maintenance-guide.md) | Plain-English guide to keeping a WordPress site healthy and getting it back when it breaks — backups, safe updates, plugin conflicts, white screen and security basics. |
+| [Cloud basics for small business](cloud-basics-small-business-guide.md) | What "the cloud" actually is, the three shapes it comes in (SaaS, storage, hosting), sync-vs-backup, and a safe migration checklist. |
+| [Business email security: phishing, spoofing and invoice fraud](business-email-security-phishing-guide.md) | The four email attacks that cost small businesses money, the red flags to check, and the one rule that stops most invoice fraud. |
+| [You've been hacked? First steps for a small business](small-business-security-incident-checklist.md) | A calm, ordered checklist for the first hours after a compromise — email takeover, ransomware, defaced website, containing it, preserving evidence and notifying the right people. |
 
 ## About the author
 
