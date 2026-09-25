@@ -34,6 +34,8 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 | [Small-business AI automation: 12 practical wins](small-business-ai-automation-ideas.md) | A plain-English guide to the AI and automation work that actually saves a small business time — email triage, quote/invoice generation, form capture, FAQ assistants and more, with likely effort for each. |
 | [Website contact form not sending enquiries?](website-contact-form-repair-guide.md) | A step-by-step fix guide for contact forms that have stopped delivering — form, sending path, email delivery, DNS and hosting, in plain English. |
 | [Business email: SPF, DKIM and DMARC in plain English](business-email-spf-dkim-dmarc-guide.md) | Why domain email lands in spam or fails to send, the three records that fix it, and how to check your own headers. |
+| [Website down or showing an error? Emergency checklist](website-down-emergency-checklist.md) | A calm, ordered checklist for when your site is down or showing an error — identify the error class, check what changed, and the cheap checks first. |
+| [DNS troubleshooting in plain English](dns-troubleshooting-guide.md) | Why your site or email "does not exist" when the server is fine — A, CNAME, MX and NS records, and the most common problems in order. |
 
 ## About the author
 
