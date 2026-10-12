@@ -7,6 +7,14 @@ a UK-based technology-services business.
 Everything here is free to use. If you would rather have it done for you, Linux
 Stewards provides remote help worldwide: [linuxstewards.com/services](https://www.linuxstewards.com/services).
 
+## Need help with a website enquiry form?
+
+Linux Stewards offers a **£29 one-off repair for one agreed problem with an existing website enquiry form**. The agreed work includes a test reaching the intended destination and a plain-English handover. Scope, access, timing and payment terms are agreed before work starts.
+
+This small repair offer does not cover a website rebuild, migration, paid plugins or wider DNS and email repairs. There is no automatic care-plan enrolment.
+
+Start with the [free contact-form troubleshooting guide](website-contact-form-repair-guide.md), or [request a scope check](https://www.linuxstewards.com/contact) at **info@linuxstewards.com**. Include the website address, what happens when the form is used and where enquiries should arrive; do not send passwords or customer messages.
+
 ## Contents
 
 | Guide | What it covers |
@@ -50,8 +58,8 @@ Stewards provides remote help worldwide: [linuxstewards.com/services](https://ww
 ## About the author
 
 Linux Stewards provides remote IT, website, Linux, AI and automation help for
-small businesses and individuals. Small jobs are genuinely welcome — entry fixes
-start from £12. Linux is a specialist strength, not a platform restriction.
+small businesses and individuals. Small jobs are welcome, with the scope and price
+agreed before work starts. Linux is a specialist strength, not a platform restriction.
 
 - Website: [linuxstewards.com](https://www.linuxstewards.com/)
 - Services: [linuxstewards.com/services](https://www.linuxstewards.com/services)
